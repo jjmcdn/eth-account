@@ -1,0 +1,6 @@
+eth_abi python3-eth-abi
+eth_keyfile python3-eth-keyfile
+eth_keys python3-eth-keys
+eth_rlp python3-eth-rlp
+eth_utils python3-eth-utils
+hexbytes python3-hexbytes
